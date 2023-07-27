@@ -1,0 +1,5 @@
+Prueba de texto plano
+
+archivo para probar Git
+
+Mañana hablaremos de su historia
