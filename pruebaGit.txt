@@ -5,3 +5,5 @@ archivo para probar Git
 Mañana hablaremos de su historia
 
 tengo 33 años y nacio en Perú, viviendo en Colombia
+
+En camara parece alto, pero la verdad no es tan alto
