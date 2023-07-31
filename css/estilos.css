@@ -45,6 +45,10 @@ body
     color: white;
     text-align: center;
     padding: 0.5em;
+}
 
-
+#footer #foot
+{
+    width: 50px;
+    vertical-align: middle;
 }
